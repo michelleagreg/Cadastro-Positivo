@@ -1,5 +1,3 @@
-# Cadastro-Positivo
-Large-scale credit data migration with strong governance and BI insights
 # 📌 Positive Credit Data Migration & Governance Framework
 
 This repository showcases a real-world case of **data migration, governance, and quality validation** developed for Brazil’s **Positive Credit System (Cadastro Positivo)**.  
